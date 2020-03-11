@@ -19,16 +19,6 @@
 {"id":17,"name":"Eastern quoll","kategori":"Mauv"},
 {"id":18,"name":"Snowy egret","kategori":"Violet"},
 {"id":19,"name":"Greater flamingo","kategori":"Yellow"},
-{"id":20,"name":"White-faced tree rat","kategori":"Green"},
-{"id":21,"name":"Giant heron","kategori":"Indigo"},
-{"id":22,"name":"Eagle, tawny","kategori":"Crimson"},
-{"id":23,"name":"Galapagos penguin","kategori":"Aquamarine"},
-{"id":24,"name":"White-rumped vulture","kategori":"Maroon"},
-{"id":25,"name":"African pied wagtail","kategori":"Crimson"},
-{"id":26,"name":"Small-spotted genet","kategori":"Indigo"},
-{"id":27,"name":"Harbor seal","kategori":"Teal"},
-{"id":28,"name":"Dove, galapagos","kategori":"Yellow"},
-{"id":29,"name":"Blue shark","kategori":"Mauv"},
-{"id":30,"name":"Galapagos sea lion","kategori":"Red"},
+{"id":20,"name":"White-faced tree rat","kategori":"Green"}
 ]
 }
